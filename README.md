@@ -1,2 +1,0 @@
-# bto
-bitocoin source

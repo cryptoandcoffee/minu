@@ -1,0 +1,4 @@
+name="fluttercoin"
+symbol="flt"
+daemon="fluttercoind"
+cli="fluttercoind"
