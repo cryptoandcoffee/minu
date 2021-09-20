@@ -1,4 +1,4 @@
-name="fluttercoin"
-symbol="flt"
-daemon="fluttercoind"
+name="minidoge"
+symbol="minu"
+daemon="minidoged"
 cli="fluttercoind"
